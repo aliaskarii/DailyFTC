@@ -1,1 +1,1 @@
-#daily ftc
+# Daily FTC indicator
